@@ -15,4 +15,4 @@ async function setAdmin(email) {
 (async () => {
   await setAdmin('betovtdesign@gmail.com');
 })();
- // test
+ //
